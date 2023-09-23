@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="alert_background_color">#d3f2ed</color>
+    <color name="alert_title_color">#468fe3</color>
+    <color name="alert_message_color">#38447d</color>
+    <color name="alert_positive_button_color">#036113</color>
+    <color name="alert_negative_button_color">#d63129</color>
+</resources>
